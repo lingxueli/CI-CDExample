@@ -1,4 +1,6 @@
-Tools:
+CI/CD example
+
+This is a general process of CI/CD using the tools below:
 	AWS
 	Docker
 	Jennkins
